@@ -8,5 +8,10 @@
         "url": "https://github.com/guhilot/pictures/blob/master/bird.jpg?raw=true",
         "id": "2",
         "isFavorite": false
+    },
+    {
+        "url": "https://github.com/guhilot/pictures/blob/master/bird.jpg?raw=true",
+        "id": "3",
+        "isFavorite": false
     }
 ]
